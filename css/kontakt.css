@@ -91,7 +91,7 @@ header .logo:hover::after{
    display: flex;
    justify-content: center;
     align-content: center;
-    border: 2px solid red;
+   
     
 }
 .root .formDiv form{
