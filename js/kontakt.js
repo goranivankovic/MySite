@@ -3,7 +3,6 @@ let obj ={
     menuBar:document.querySelector('.menuBar'),
     root:document.querySelector('.root'),
     footer:document.querySelector('footer'),
-    
     laz:false
 }
 obj.menuBar.addEventListener('click',()=>{
@@ -30,6 +29,7 @@ obj.menuBar.addEventListener('click',()=>{
   
 
 })
+
 
 
 function myFunction(x) {
